@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning DOT.NET and Kubernetes  
   
 
-- ❓ Ask me about anything related to FULL stack and related technologies.
+- ❓ Ask me about anything related to FULL stack and related technologies
   
 
 - ⚡ Fun fact: I use tabs over spaces  

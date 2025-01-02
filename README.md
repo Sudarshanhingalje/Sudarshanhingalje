@@ -1,7 +1,8 @@
-<div align="center">
 
+<div align="center">
 # Hi, I'm Sudarshan Hingalje 👨‍💻
-![freepik-ai-artificial-inteligence-linkedin-profile-cover-4029809-20250102103147wkf3](https://github.com/user-attachments/assets/dd468928-e7be-4e08-af5f-1ef1be9b4bba)
+  
+![Untitled-design-1--unscreen](https://github.com/user-attachments/assets/7418809e-490d-49e5-aa28-129db7dd8fd2)
 
 ### Full-Stack Developer | PG-DAC Student | Technology Enthusiast
 

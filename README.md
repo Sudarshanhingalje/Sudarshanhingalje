@@ -12,7 +12,7 @@ Hi,I'm
 
 ## 🚀 About Me
 
-- 🔭 Currently working on final project PG-DAC ([ScrapSavvy_M24](https://github.com/ScrapSavvym24/ScrapSavvy_M24))
+- 🔭 Currently working on final project Pratice ([Pizza-Delivery-Application]([(https://github.com/Sudarshanhingalje/Pizza-Delivery-Application)))
 - 🌱 Learning DOT.NET and Kubernetes
 - 💬 Ask me about anything related to FULL stack and related technologies
 - ⚡ Fun fact: I use tabs over spaces

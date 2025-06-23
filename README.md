@@ -1,101 +1,110 @@
-
 <div align="center">
-Hi,I'm 
+  <img src="https://github.com/user-attachments/assets/7418809e-490d-49e5-aa28-129db7dd8fd2" width="150" />
   
-![Untitled-design-1--unscreen](https://github.com/user-attachments/assets/7418809e-490d-49e5-aa28-129db7dd8fd2)
+  <h1>Hi, I'm Sudarshan Hingalje 👋</h1>
+  <h3>Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-### Full-Stack Developer | Technology Enthusiast
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+  <img src="https://github.com/user-attachments/assets/4387d8a8-49f4-4188-a1d0-d2ffd48583cd" width="400" alt="coding" />
+  
 </div>
+
+---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on final project Pratice ([Pizza-Delivery-Application]([(https://github.com/Sudarshanhingalje/Pizza-Delivery-Application)))
-- 🌱 Learning DOT.NET and Kubernetes
-- 💬 Ask me about anything related to FULL stack and related technologies
-- ⚡ Fun fact: I use tabs over spaces
+- 🔭 Currently working on my final project: [`Pizza Delivery Application`](https://github.com/Sudarshanhingalje/Pizza-Delivery-Application)
+- 🌱 Exploring `.NET`, Kubernetes, and Advanced DevOps
+- 💬 Ask me anything about **React, Java, Spring Boot, Next.js, Node.js**
+- 🎯 Passionate about clean UI, scalable systems & solving real-world problems
+- ⚡ Fun fact: I prefer **tabs over spaces** 😄
 
-## 💻 My Tech Stack
+---
+
+## 💻 Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### Frontend
+### 🧩 Frontend
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-</div>
-</td>
-<td valign="top" width="33%">
-
-### Backend
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Springboot" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" />
+  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="40" alt="Next.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40" alt="Bootstrap" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3" />
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="40" alt="Vue.js" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### DevOps
+### ⚙️ Backend
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="40" alt="Spring Boot" />
+  <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="40" alt=".NET" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="40" alt="C" />
+</div>
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
+</td>
+<td valign="top" width="33%">
+
+### 🛠 DevOps & Tools
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" alt="Git" />
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" height="40" alt="Jenkins" />
 </div>
 
 </td>
 </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sudarshanhingalje&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudarshanhingalje&show_icons=true&theme=radical&count_private=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshanhingalje&theme=radical" />
 </div>
 
-## 🤝 Connect with me
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-<a href="https://github.com/Sudarshanhingalje" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/sudarshan-hingalje-b07993158" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/sudarshan.hingalje" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/its_sudarshan___10" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+  <a href="https://github.com/Sudarshanhingalje" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudarshan-hingalje-b07993158" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/sudarshan.hingalje" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/its_sudarshan___10" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
+
+---
 
 ## 👀 Profile Views
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sudarshanhingalje&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=Sudarshanhingalje&style=flat-square&color=blue" />
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From Sudarshan Hingalje (https://github.com/Sudarshanhingalje)</i>
+  ⭐️ From [Sudarshan Hingalje](https://github.com/Sudarshanhingalje)
 </div>

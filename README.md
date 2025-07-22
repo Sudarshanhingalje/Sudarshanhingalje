@@ -115,3 +115,27 @@
 <div align="center">
   ⭐️ From [Sudarshan Hingalje](https://github.com/Sudarshanhingalje)
 </div>
+---
+# 📊 My WakaTime Stats
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2017%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage  
+> 🏆 3,111 Contributions in the Year 2025  
+> 💼 Opted to Hire  
+> 📜 70 Public Repositories  
+> 🔑 0 Private Repositories  
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1743 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+🌆 Daytime                4982 commits        █████████░░░░░░░░░░░░░░░░   36.24 % 
+🌃 Evening                4532 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌙 Night                  2489 commits        █████░░░░░░░░░░░░░░░░░░░░░   18.11 % 
+

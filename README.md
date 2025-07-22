@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7418809e-490d-49e5-aa28-129db7dd8fd2" width="150" />
+  <img width="1000" height="200" alt="banner" src="https://github.com/user-attachments/assets/a389f02a-a862-4b4e-993a-a136a90f5379" />
+
   
   <h1>Hi, I'm Sudarshan Hingalje 👋</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>

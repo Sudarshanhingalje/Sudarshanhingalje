@@ -105,6 +105,12 @@
 </div>
 
 ---
+<div align="center">
+  <h1>🐍 My Contributions 🐍</h1>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarshanhingalje&theme=dracula&hide_border=true" alt="contribution graph" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sudarshanhingalje/Sudarshanhingalje/output/github-contribution-grid-snake-light.svg" />
+</div>
 
 <div align="center">
   ⭐️ From [Sudarshan Hingalje](https://github.com/Sudarshanhingalje)

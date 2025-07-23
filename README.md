@@ -122,9 +122,15 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
-## 📌 Recent GitHub Activity
+# Hi, I'm Sudarshan Hingalje 👋
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!-- 🐍 Contribution Snake -->
+![Contribution Snake](https://raw.githubusercontent.com/Sudarshanhingalje/Sudarshanhingalje/output/github-contribution-grid-snake.svg)
+
+<!-- 📌 Recent GitHub Activity -->
+### 📌 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 

@@ -122,6 +122,11 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+## 📌 Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 ## 📊 GitHub Stats Summary Cards
 
 [![](https://raw.githubusercontent.com/Sudarshanhingalje/Sudarshanhingalje/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

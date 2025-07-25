@@ -1,13 +1,8 @@
-username: "Sudarshanhingalje"
-commit_msg: "⚡ Update README with the recent activity"
-maxlines: 10
-readme_file: "./README.md"
-disabled_events:
-  - "comments"
-date:
-  timezone: "Asia/Kolkata"
-  text: "🕒 Last Updated on {DATE}"
-  format: "dddd, DD/MM/YYYY h:mm A"
-commit_name: "readme-bot"
-commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
-line_prefix: "{NUM}. "
+# .github/activity.yml
+max_lines: 5
+commits: true
+issues: true
+pull_requests: true
+discussions: false
+release: true
+github_actions: false

@@ -1,9 +1,9 @@
 name: 🦾 Update README with Recent GitHub Activity
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
 
 jobs:
   update-readme:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: ✨ Update README with Recent Activity
-        uses: Readme-Workflows/activity-readme@v2.3.0
+      - name: ✨ Generate GitHub activity
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

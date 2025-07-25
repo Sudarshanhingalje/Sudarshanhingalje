@@ -1,8 +1,0 @@
-# .github/activity.yml
-max_lines: 5
-commits: true
-issues: true
-pull_requests: true
-discussions: false
-release: true
-github_actions: false

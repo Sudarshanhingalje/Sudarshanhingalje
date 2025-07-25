@@ -17,3 +17,4 @@ jobs:
           CONFIG_FILE: .github/activity.yml
         env:
           GH_USERNAME: Sudarshanhingalje
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

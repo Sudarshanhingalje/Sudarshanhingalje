@@ -127,10 +127,8 @@
 <!-- 🐍 Contribution Snake -->
 ![Contribution Snake](https://raw.githubusercontent.com/Sudarshanhingalje/Sudarshanhingalje/output/github-contribution-grid-snake.svg)
 
-<!-- 📌 Recent GitHub Activity -->
-### 📌 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## ⚡ Recent GitHub Activity
 
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 

@@ -1,4 +1,4 @@
-name: 🦾 Update README with Recent Activity
+name: 🦾 Update README with Recent GitHub Activity
 
 on:
   schedule:
@@ -11,13 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: 📝 Update Recent Activity in README
-        uses: actions-js/profile-activity@v1
+      - name: 📝 Update README with recent activity
+        uses: Readme-Workflows/recent-activity@v2
         with:
-          COMMIT_NAME: readme-bot
-          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          MAX_LINES: 10
-          TARGET_FILE: README.md
-          COMMENT_TAG_NAME: RECENT_ACTIVITY
+          CONFIG_FILE: .github/activity.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

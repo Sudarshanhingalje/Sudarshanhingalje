@@ -1,8 +1,8 @@
-name: Update README
+name: 🦾 Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # every 30 minutes
+    - cron: '*/30 * * * *' # Every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update GitHub activity
-        uses: Readme-Workflows/recent-activity@main
+
+      - name: 📝 Update Recent Activity in README
+        uses: actions-js/profile-activity@v1.3.0
         with:
-          CONFIG_FILE: .github/activity.yml
+          COMMIT_NAME: readme-bot
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          MAX_LINES: 10
+          TARGET_FILE: README.md
+          COMMENT_TAG_NAME: RECENT_ACTIVITY
         env:
-          GH_USERNAME: Sudarshanhingalje
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

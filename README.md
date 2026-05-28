@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on my final project: [`the oasis hotel management system`](https://github.com/Sudarshanhingalje/the-wild-oasis)
+- 🔭 Currently working on my final project: [dental clinic ai assitance`](https://github.com/Sudarshanhingalje/the-wild-oasis)
 - 🌱 Exploring `.NET`, Kubernetes, and Advanced DevOps
 - 💬 Ask me anything about **React, Java, Spring Boot, Next.js, Node.js**
 - 🎯 Passionate about clean UI, scalable systems & solving real-world problems

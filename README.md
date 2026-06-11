@@ -11,13 +11,13 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** My final project — **[Dental Clinic AI Assistance](https://github.com/Sudarshanhingalje/the-wild-oasis)** (AI-powered clinic management system)
-- 🌱 **Exploring:** `.NET`, Kubernetes, Advanced DevOps, and Cloud Architecture
-- 💬 **Ask me anything about:** **React**, **Java**, **Spring Boot**, **Next.js**, **Node.js**, **.NET**
-- 🎯 **Passionate about:** Clean UI/UX, scalable systems, and solving real-world problems with technology
-- 📍 **Location:** Nashik, Maharashtra, India
-- ⚡ **Fun fact:** I prefer **tabs over spaces** 😄
-- 📧 **Email:** (add your email here for recruiter contact)
+- 🔭 **Currently working on:** My final project — **[Dental Clinic AI Assistance](https://github.com/Sudarshanhingalje/dental-clinic-saas)**, an AI-powered clinic management system.
+- 🌱 **Exploring:** `.NET`, Kubernetes, Advanced DevOps, and Cloud Architecture.
+- 💬 **Ask me anything about:** **React**, **Java**, **Spring Boot**, **Next.js**, **Node.js**, **.NET**.
+- 🎯 **Passionate about:** Clean UI/UX, scalable systems, and solving real-world problems with technology.
+- 📍 **Location:** Pune, Maharashtra, India.
+- ⚡ **Fun fact:** I prefer **tabs over spaces** 😄.
+- 📧 **Email:** 1@gmail.com
 
 ---
 
@@ -74,14 +74,14 @@
 ## 🌟 Featured Project
 
 ### 🏥 Dental Clinic AI Assistance
-**AI-powered clinic management system for appointments, patient records, and diagnosis suggestions**
+AI-powered clinic management system for appointments, patient records, and diagnosis suggestions.
 
 | Aspect | Details |
 |--------|---------|
 | **Tech Stack** | React (Frontend), Spring Boot / .NET (Backend), MySQL, Docker, AI/ML Integration |
 | **Key Features** | Role-based access, appointment scheduler, RESTful APIs, patient record management, AI-driven suggestions |
-| **Repository** | [View on GitHub](https://github.com/Sudarshanhingalje/the-wild-oasis) |
-| **Demo** | (Add live demo link here) |
+| **Repository** | [View on GitHub](https://github.com/Sudarshanhingalje/dental-clinic-saas) |
+| **Demo** | Add live demo link here |
 | **Status** | 🚧 Final Project — In Progress |
 
 ---
@@ -90,9 +90,9 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| Project A | (Add 1-line description) | React, Node.js, MySQL | [GitHub](add-link) |
-| Project B | (Add 1-line description) | Java, Spring Boot, MySQL | [GitHub](add-link) |
-| Project C | (Add 1-line description) | Next.js, Tailwind, API | [GitHub](add-link) |
+| Elevora AI | AI-powered SaaS platform with dashboards, subscriptions, and clinic workflow automation. | React, Spring Boot, Spring Security, Node.js, MongoDB, LLM API Integration | [GitHub](https://github.com/Sudarshanhingalje/elevora-aiad) |
+| ScrapSavvy Frontend | Waste management frontend with responsive UI and cloud-ready architecture. | React, Bootstrap, Netlify | [GitHub](https://github.com/Sudarshanhingalje/ScrapSavvy-frontend) |
+| ScrapSavvy Backend | Waste management backend with REST APIs, authentication, and AWS services. | Spring Boot, MySQL, AWS EC2, AWS RDS, AWS S3, JWT | [GitHub](https://github.com/Sudarshanhingalje/ScrapSavvy-backend) |
 
 ---
 
@@ -132,7 +132,7 @@
   <a href="https://github.com/Sudarshanhingalje" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sudarshan-hingalje-b07993158" target="_blank">
+  <a href="https://www.linkedin.com/in/sudarshanhingalje/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/sudarshan.hingalje" target="_blank">
@@ -155,25 +155,25 @@
 
 ## 🎯 What I'm Learning
 
-- **Currently Exploring:** `.NET`, Kubernetes, Advanced DevOps, Cloud Architecture
-- **Goals:** Build production-ready cloud deployments and expand backend engineering skills
-- **Interested in:** Healthcare tech, AI-driven applications, scalable systems
+- **Currently Exploring:** `.NET`, Kubernetes, Advanced DevOps, Cloud Architecture.
+- **Goals:** Build production-ready cloud deployments and expand backend engineering skills.
+- **Interested in:** Healthcare tech, AI-driven applications, scalable systems.
 
 ---
 
 ## 💼 Open To Work
 
-- **Seeking:** Junior Full-Stack Developer, Frontend Developer, Backend Developer roles
-- **Availability:** Open to freelance projects and full-time opportunities
-- **Resume:** (Add link to your resume PDF here)
+- **Seeking:** Junior Full-Stack Developer, Frontend Developer, Backend Developer roles.
+- **Availability:** Open to freelance projects and full-time opportunities.
+- **Resume:** Add your resume PDF link here.
 
 ---
 
 ## 📬 Contact
 
-- **Email:** (add your professional email here)
-- **Location:** Nashik, Maharashtra, India
-- **LinkedIn:** [sudarshan-hingalje](https://www.linkedin.com/in/sudarshan-hingalje-b07993158)
+- **Email:** sudarshanhingalje1@gmail.com
+- **Location:** Pune, Maharashtra, India.
+- **LinkedIn:** [sudarshanhingalje](https://www.linkedin.com/in/sudarshanhingalje/)
 
 ---
 

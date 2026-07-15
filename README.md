@@ -4,8 +4,10 @@
   <h1>Hi, I'm Sudarshan Hingalje 👋</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-  <img src="https://github.com/user-attachments/assets/4387d8a8-49f4-4188-a1d0-d2ffd48583cd" width="400" alt="coding" />
+  <img width="1536" height="1024" alt="ChatGPT Image Jul 15, 2026, 09_09_59 AM" src="https://github.com/user-attachments/assets/80d35661-aa8f-4d47-bfe7-697591fe37c7" />
+
 </div>
+
 
 ---
 
